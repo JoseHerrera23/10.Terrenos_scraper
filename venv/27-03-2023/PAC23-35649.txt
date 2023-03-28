@@ -1,0 +1,21 @@
+Terreno de Venta 400 m2 en Puembo Sector Colegio Highlands
+
+
+Puembo · Quito 
+
+Precio Venta,Área,Valor x m
+
+$128.000 / 400m / $320
+
+PAC23-35649
+
+Área total: 400 m Frente: 20 m Fondo: 21 m COS PB — coeficiente de ocupación suelo planta baja:
+ 35 % COS TOTAL — coeficiente de ocupación suelo total:
+ 70 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.21245036119826016
+
+-78.35695087064312
+

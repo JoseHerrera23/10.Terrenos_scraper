@@ -1,0 +1,21 @@
+Terreno de venta en La Floresta 250 m2. Sector tradicional de Quito.
+
+
+La Floresta · Quito 
+
+Precio Venta,Área,Valor x m
+
+$54.450 / 250m / $218
+
+PDC6-36581
+
+Área total: 250 m Frente: 10 m Fondo: 25 m COS PB — coeficiente de ocupación suelo planta baja:
+ 50 % COS TOTAL — coeficiente de ocupación suelo total:
+ 100 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.21056878110080254
+
+-78.48048209677653
+

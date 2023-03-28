@@ -1,0 +1,21 @@
+Terreno de venta Vía a Nono 3.400 m2 a 40 minutos de Quito
+
+
+Nono · Quito 
+
+Precio Venta,Área,Valor x m
+
+$30.000 / 3.400m / $9
+
+PAC15-29909
+
+Área total: 3.400 m Frente: 144 m Fondo: 189 m COS PB — coeficiente de ocupación suelo planta baja:
+ 10 % COS TOTAL — coeficiente de ocupación suelo total:
+ 20 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.08054440398318681
+
+-78.53539886445617
+

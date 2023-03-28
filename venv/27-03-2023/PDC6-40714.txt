@@ -1,0 +1,21 @@
+Terreno de venta 842 m2 en Amagasí del Inca, sector Colegio Británico
+
+
+Amagasi del Inca · Quito 
+
+Precio Venta,Área,Valor x m
+
+$76.000 / 842m / $90
+
+PDC6-40714
+
+Área total: 842 m Frente: 18 m Fondo: 47 m COS PB — coeficiente de ocupación suelo planta baja:
+ 50 % COS TOTAL — coeficiente de ocupación suelo total:
+ 200 % Número de pisos permitidos: 4 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.13332174960753543
+
+-78.45336354328516
+

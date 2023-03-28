@@ -1,0 +1,21 @@
+Terreno de venta en Tabacundo 4.000 m2/ Son 4 lotes de 1.000 m2
+
+
+Pedro Moncayo · Pichincha 
+
+Precio Venta,Área,Valor x m
+
+$68.000 / 4.000m / $17
+
+PAC15-33779
+
+Área total: 4.000 m Frente: 20 m Fondo: 200 m COS PB — coeficiente de ocupación suelo planta baja:
+ 3 % COS TOTAL — coeficiente de ocupación suelo total:
+ 6 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+0.01956668574035504
+
+-78.24959095126418
+

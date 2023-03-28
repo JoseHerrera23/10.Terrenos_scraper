@@ -1,0 +1,21 @@
+Terreno de venta en Calacalí 2.000 industrial I3, Hipodromo Dos Hemisferios.
+
+
+Calacalí · Quito 
+
+Precio Venta,Área,Valor x m
+
+$100.000 / 2.000m / $50
+
+PAC8-40962
+
+Área total: 2.000 m Frente: 20 m Fondo: 100 m COS PB — coeficiente de ocupación suelo planta baja:
+ 60 % COS TOTAL — coeficiente de ocupación suelo total:
+ 240 % Número de pisos permitidos: 4 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.0000865472927729131
+
+-78.4847736526426
+

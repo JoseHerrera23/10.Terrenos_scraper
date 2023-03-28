@@ -1,0 +1,21 @@
+Terreno de venta en La Av. Simon Bolivar 447 m2, Urbanización Toscana, Sector UIDE
+
+
+Rumiñahui · Pichincha 
+
+Precio Venta,Área,Valor x m
+
+$94.000 / 447m / $210
+
+PAC9-5420
+
+Área total: 447 m Frente: 20 m Fondo: 22 m COS PB — coeficiente de ocupación suelo planta baja:
+ 50 % COS TOTAL — coeficiente de ocupación suelo total:
+ 100 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.2523095268069687
+
+-78.47442485395243
+

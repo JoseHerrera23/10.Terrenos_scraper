@@ -1,0 +1,21 @@
+Venta de terreno, 395 m2, Nayón en urbanización privada.
+
+
+Nayón · Quito 
+
+Precio Venta,Área,Valor x m
+
+$104.000 / 395m / $263
+
+PDC2-41612
+
+Área total: 395 m Frente: 15 m Fondo: 20 m COS PB — coeficiente de ocupación suelo planta baja:
+ 35 % COS TOTAL — coeficiente de ocupación suelo total:
+ 70 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.1669126892111546
+
+-78.4364691811981
+

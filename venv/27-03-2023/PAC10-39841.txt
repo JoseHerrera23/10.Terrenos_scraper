@@ -1,0 +1,21 @@
+Venta de terreno urbanizado, área 1.150 m2 , Valle de los Chillos – Sector Betánia
+
+
+Rumiñahui · Pichincha 
+
+Precio Venta,Área,Valor x m
+
+$91.000 / 1.150m / $79
+
+PAC10-39841
+
+Área total: 1.150 m Frente: 35 m Fondo: 33 m COS PB — coeficiente de ocupación suelo planta baja:
+ 10 % COS TOTAL — coeficiente de ocupación suelo total:
+ 20 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.3189150579478899
+
+-78.419973292807
+

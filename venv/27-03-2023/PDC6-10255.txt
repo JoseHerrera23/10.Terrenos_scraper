@@ -1,0 +1,21 @@
+Terreno en Venta, Cumbaya 2.204, El Limonar, Cumbaya, Tumbaco, Ruta Viva
+
+
+Cumbayá · Quito 
+
+Precio Venta,Área,Valor x m
+
+$661 / 2.204m / $0
+
+PDC6-10255
+
+Área total: 2.204 m Frente: 145 m Fondo: 55 m COS PB — coeficiente de ocupación suelo planta baja:
+ 35 % COS TOTAL — coeficiente de ocupación suelo total:
+ 70 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.2262941
+
+-78.44611220000002
+

@@ -1,0 +1,21 @@
+Terreno en Venta San Antonio 1.297 m2, Mitad Del Mundo, Delicia, Vip, Vis
+
+
+Mitad del Mundo · Quito 
+
+Precio Venta,Área,Valor x m
+
+$103.760 / 1.297m / $80
+
+PAC15-2288
+
+Área total: 1.297 m Frente: 20 m Fondo: 65 m COS PB — coeficiente de ocupación suelo planta baja:
+ 80 % COS TOTAL — coeficiente de ocupación suelo total:
+ 240 % Número de pisos permitidos: 3 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+0.0044623
+
+-78.44335760000001
+

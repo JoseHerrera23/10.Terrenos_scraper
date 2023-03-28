@@ -1,0 +1,21 @@
+Terreno de venta en El Inga 9.500 m2, entre Pintag y Pifo
+
+
+Pifo · Quito 
+
+Precio Venta,Área,Valor x m
+
+$89.999 / 9.595m / $9
+
+PAC9-41000
+
+Área total: 9.595 m Frente: 201 m Fondo: 48 m COS PB — coeficiente de ocupación suelo planta baja:
+ 1.5 % COS TOTAL — coeficiente de ocupación suelo total:
+ 3 % Número de pisos permitidos: 1 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.3020392
+
+-78.3591574
+

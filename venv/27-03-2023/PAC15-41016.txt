@@ -1,0 +1,21 @@
+Venta de Terreno, 422m2, Ofelia Alta, sector Parque de los Recuerdos, Bellavista
+
+
+Ponceano · Quito 
+
+Precio Venta,Área,Valor x m
+
+$87.000 / 422m / $206
+
+PAC15-41016
+
+Área total: 422 m Frente: 14 m Fondo: 30 m COS PB — coeficiente de ocupación suelo planta baja:
+ 60 % COS TOTAL — coeficiente de ocupación suelo total:
+ 180 % Número de pisos permitidos: 3 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.11750203047157189
+
+-78.48162097671174
+

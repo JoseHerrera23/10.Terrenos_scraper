@@ -1,0 +1,21 @@
+Espectacular terreno 1.000 m2 Machilgui, La Fontana.
+
+
+Malchingui · Pedro Moncayo 
+
+Precio Venta,Área,Valor x m
+
+$35.000 / 1.000m / $35
+
+PDC2-23167
+
+Área total: 1.000 m Frente: 25 m Fondo: 40 m COS PB — coeficiente de ocupación suelo planta baja:
+ 40 % COS TOTAL — coeficiente de ocupación suelo total:
+ 80 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+0.03754353508198041
+
+-78.3677115834158
+

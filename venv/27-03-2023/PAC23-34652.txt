@@ -1,0 +1,21 @@
+Terreno de venta dentro de Urb. El Condado 458.50m2
+
+
+Quito · Pichincha 
+
+Precio Venta,Área,Valor x m
+
+$119.000 / 459m / $260
+
+PAC23-34652
+
+Área total: 459 m Frente: 16 m Fondo: 28 m COS PB — coeficiente de ocupación suelo planta baja:
+ 50 % COS TOTAL — coeficiente de ocupación suelo total:
+ 200 % Número de pisos permitidos: 4 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.1082861
+
+-78.51149509999999
+

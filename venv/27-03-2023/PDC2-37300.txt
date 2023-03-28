@@ -1,0 +1,21 @@
+Terreno de Venta en Llano Chico 1.000 m2 urbanización privada Conjunto Tupirosa.
+
+
+LLano Chico · Quito 
+
+Precio Venta,Área,Valor x m
+
+$112.000 / 1.000m / $112
+
+PDC2-37300
+
+Área total: 1.000 m Frente: 105 m Fondo: 43 m COS PB — coeficiente de ocupación suelo planta baja:
+ 35 % COS TOTAL — coeficiente de ocupación suelo total:
+ 70 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.1302323994179304
+
+-78.43849179534259
+

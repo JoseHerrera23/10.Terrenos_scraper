@@ -1,0 +1,21 @@
+Venta de terreno en La Armenia N1 de 1.100 m2, San Rafael, Valle de los Chillos.
+
+
+La Armenia · Quito 
+
+Precio Venta,Área,Valor x m
+
+$121.000 / 1.100m / $110
+
+PAC9-41833
+
+Área total: 1.100 m Frente: 21 m Fondo: 53 m COS PB — coeficiente de ocupación suelo planta baja:
+ 50 % COS TOTAL — coeficiente de ocupación suelo total:
+ 150 % Número de pisos permitidos: 3 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.29251724740911295
+
+-78.4709493012364
+

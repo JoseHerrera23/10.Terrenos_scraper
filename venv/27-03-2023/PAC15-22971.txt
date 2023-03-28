@@ -1,0 +1,21 @@
+Terreno de venta 665m2 Malchingui. Urbanización Privada
+
+
+Malchingui · Pedro Moncayo 
+
+Precio Venta,Área,Valor x m
+
+$23.275 / 660m / $35
+
+PAC15-22971
+
+Área total: 660 m Frente: 10 m Fondo: 0 m COS PB — coeficiente de ocupación suelo planta baja:
+ 30 % COS TOTAL — coeficiente de ocupación suelo total:
+ 60 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+0.02768623522318431
+
+-78.37486447015465
+

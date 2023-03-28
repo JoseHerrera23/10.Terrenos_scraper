@@ -1,0 +1,21 @@
+Venta de terreno, 2.012 m2 Calacalí, sector industrial I3.
+
+
+Calacalí · Quito 
+
+Precio Venta,Área,Valor x m
+
+$100.600 / 2.012m / $50
+
+PDC2-40043
+
+Área total: 2.012 m Frente: 25 m Fondo: 89 m COS PB — coeficiente de ocupación suelo planta baja:
+ 60 % COS TOTAL — coeficiente de ocupación suelo total:
+ 240 % Número de pisos permitidos: 4 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.0013681476377246148
+
+-78.48546889447633
+

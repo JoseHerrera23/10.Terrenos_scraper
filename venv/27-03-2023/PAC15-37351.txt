@@ -1,0 +1,21 @@
+Terreno de venta 2.500m2 Machilgui a 45 minutos de Quito.
+
+
+Malchingui · Pedro Moncayo 
+
+Precio Venta,Área,Valor x m
+
+$22.499 / 2.500m / $9
+
+PAC15-37351
+
+Área total: 2.500 m Frente: 25 m Fondo: 100 m COS PB — coeficiente de ocupación suelo planta baja:
+ 10 % COS TOTAL — coeficiente de ocupación suelo total:
+ 20 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.036141336551900514
+
+-78.33976537858616
+

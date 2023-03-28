@@ -1,0 +1,21 @@
+Terreno de venta Tababela 1.000 m2, Sector Empleados DAC, Aeropuerto
+
+
+Quito · Pichincha 
+
+Precio Venta,Área,Valor x m
+
+$85.050 / 1.001m / $85
+
+PAC10-41171
+
+Área total: 1.001 m Frente: 25 m Fondo: 40 m COS PB — coeficiente de ocupación suelo planta baja:
+ 35 % COS TOTAL — coeficiente de ocupación suelo total:
+ 70 % Número de pisos permitidos: 2 ZUAE / BRT — compra de pisos adicionales municipio:
+ No Construcciones existentes:
+ No
+
+-0.164829
+
+-78.344145
+
